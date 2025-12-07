@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "罪と罰",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-07T08:25:37.789505Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "罪と罰",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/01_罪と罰_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "罪と罰",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/02_罪と罰_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "罪と罰",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/03_罪と罰_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "罪と罰 -Sweet Inferno-",
+      "artist": "上坂すみれ",
+      "has_synced": false,
+      "path": "select/04_罪と罰_-Sweet_Inferno-_上坂すみれ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "罪と罰",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/05_罪と罰_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tsumi to Batsu [罪と罰]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/06_Tsumi_to_Batsu_[罪と罰]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "罪と罰 –Sweet Inferno–",
+      "artist": "上坂すみれ",
+      "has_synced": false,
+      "path": "select/07_罪と罰_–Sweet_Inferno–_上坂すみれ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "罪と罰",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/08_罪と罰_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "罪と罰",
+      "artist": "Butaotome",
+      "has_synced": false,
+      "path": "select/09_罪と罰_Butaotome.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "罪と罰",
+      "artist": "Shiina, Ringo",
+      "has_synced": true,
+      "path": "select/10_罪と罰_Shiina,_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "罪と罰 - Crime And Punishment",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/11_罪と罰_-_Crime_And_Punishment_Ado.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "罪と罰",
+      "artist": "DECO*27 feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/12_罪と罰_DECO_27_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "罪と罰",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/13_罪と罰_Ado.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "罪と罰 祈らざる者よ",
+      "artist": "Yoko Takahashi",
+      "has_synced": true,
+      "path": "select/14_罪と罰_祈らざる者よ_Yoko_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "罪と罰〜神様のアリバイ〜",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/15_罪と罰〜神様のアリバイ〜_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "罪と罰 ～神様のアリバイ～",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/16_罪と罰_~神様のアリバイ~_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "罪と罰",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_罪と罰_Ado.txt"
+    }
+  ]
+}
